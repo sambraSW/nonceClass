@@ -1,0 +1,13 @@
+{
+    "name": "vendor/nonce-class",
+    "description": "Description of project nonceClass.",
+    "authors": [
+        {
+            "name": "sabr",
+            "email": "devextention@gmail.com"
+        }
+    ],
+    "require": {
+        "wpscholar/vvv-skeleton": "1.0.3"
+    }
+}
